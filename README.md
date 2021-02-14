@@ -14,8 +14,10 @@ API(themoviedb.org)
 
 - Search the Movie called "fast": 
 
-<img src="https://user-images.githubusercontent.com/53878861/107873208-8556de80-6eb9-11eb-9bc1-2f267f978978.jpeg"   width="200"  height="400" >
-<img src="https://user-images.githubusercontent.com/53878861/107873183-488ae780-6eb9-11eb-8d79-825c05217f07.jpeg"   width="200"  height="400" >
+
+<img   src="https://user-images.githubusercontent.com/53878861/107873183-488ae780-6eb9-11eb-8d79-825c05217f07.jpeg" width="200" height="400">
+<img   src="https://user-images.githubusercontent.com/53878861/107873208-8556de80-6eb9-11eb-9bc1-2f267f978978.jpeg" width="200" height="400">
+
 
 
 - Choice the Movie called "fast":
